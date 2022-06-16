@@ -13,3 +13,7 @@ The process is based on the purpose of distinguishing the text belonging to the 
 
 
 ## Example of output
+
+The program is able to classify betwen text belonging to the body of the pdf and not belongig to it.
+(See reference images)
+

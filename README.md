@@ -17,3 +17,17 @@ The process is based on the purpose of distinguishing the text belonging to the 
 The program is able to classify betwen text belonging to the body of the pdf and not belongig to it.
 (See reference images)
 
+![1](https://user-images.githubusercontent.com/56981873/174113768-6ebd7680-9e86-4369-8e2f-4db8dba6941b.png)
+
+
+![2](https://user-images.githubusercontent.com/56981873/174113830-ff734166-ed39-404e-913a-42dd84af4e3c.png)
+
+
+
+![3](https://user-images.githubusercontent.com/56981873/174113907-83316786-065a-46a5-9a2e-5f90c248125b.png)
+
+
+![4](https://user-images.githubusercontent.com/56981873/174113932-fd9356ad-2f79-4da1-90e0-ffa4677b97b4.png)
+
+
+![5](https://user-images.githubusercontent.com/56981873/174113964-3630a663-eb52-4bcc-a5e9-1eda30c5cd15.png)
